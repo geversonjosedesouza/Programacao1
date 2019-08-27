@@ -1,4 +1,4 @@
-package br.estacio.exercicios;
+package br.estacio.pri.exercicios;
 
 import java.util.Scanner;
 

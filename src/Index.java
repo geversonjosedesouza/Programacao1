@@ -1,5 +1,7 @@
 
-import br.estacio.exercicios.*;
+import br.estacio.pri.exercicios.MediaNotas;
+import br.estacio.pri.exercicios.MaiorNumero;
+import br.estacio.pri.exercicios.TeoremaPitagoras;
 import javax.swing.JOptionPane;
 
 /**
