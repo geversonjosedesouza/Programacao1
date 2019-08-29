@@ -5,7 +5,6 @@
  */
 package br.estacio.pri.gp3;
 
-import br.estacio.pri.gp1.exercicio21082019.*;
 import java.util.Scanner;
 
 /**

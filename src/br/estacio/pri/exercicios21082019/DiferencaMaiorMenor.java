@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.estacio.pri.gp1.exercicio21082019;
+package br.estacio.pri.exercicios21082019;
 
 import java.util.Scanner;
 
