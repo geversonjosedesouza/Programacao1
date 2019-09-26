@@ -18,7 +18,7 @@ public class VerificarVogais {
         String palavra;
         Scanner teclado = new Scanner(System.in);
         System.out.println("DIGITE UMA FRASE: ");
-        palavra = teclado.next();
+        palavra = teclado.nextLine();
         imprime += "\nQUANTIDADE DE VOGAIS " + quantidadeVogais(palavra);
         imprime += "\nQUANTIDADE DE ESPAÇOS " + quantidadeEspacos(palavra);
         imprime += "\nPRIMEIRAS LETRAS\n ";
